@@ -1,0 +1,4 @@
+Iniciando Testbench...
+WARNING: tb.v:34: $readmemh(teste.txt): Not enough words in the file for the requested range [0:255].
+VCD info: dumpfile saida.vcd opened for output.
+=== OK na linha 0: 03 * 04 = 000c
